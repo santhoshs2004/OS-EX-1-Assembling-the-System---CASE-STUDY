@@ -96,8 +96,6 @@ motherboard to the standoffs through
 the shielded screw holes on the
 motherboard.
 
-
-
 9. Plug in the case connectors. These
 tend to be located together on the
 motherboard near the front of the
@@ -116,7 +114,6 @@ attach to the motherboard. Do not try to force anything to fit.
 
 ![image](https://github.com/Harsayazheni/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118708467/9a239f6e-dd40-4269-8f57-aecad44ec085)
 
-
 10. Install the hard drive. This process will vary slightly depending on your case, but should
 typically go as follows:
 a. Remove any front panels on the case.
@@ -127,8 +124,6 @@ drive-in place.
 d. Plug the hard drive's SATA cable into the
 SATA slot on the motherboard.
 
-
-
 11. Connect the power supply to any necessary components. If the power supply is not connected
 to components which need power, make sure that it is
 connected to the following locations:
@@ -137,8 +132,6 @@ b. Graphics card(s)
 c. Hard drive(s)
 
 ![image](https://github.com/Harsayazheni/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118708467/89a8fbd7-1829-489e-8fd0-5d6bb84433d7)
-
-
 
 12. Finish the computer assembly. Once placed
 and connected the various internal
@@ -152,10 +145,6 @@ instructions in order to do so.
 b. Many cases will have a panel which
 either slides back into place or screws
 onto the side of the case.
-
 ![image](https://github.com/Harsayazheni/OS-EX-1-Assembling-the-System---CASE-STUDY/assets/118708467/da404a68-8d42-48b1-8e26-643fdab94795)
-
-
 # RESULT:
-
 The Computer System has been successfully assembled.
